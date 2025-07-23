@@ -8,20 +8,12 @@ Atualmente trabalho como desenvolvedor full stack na Make Vendas, onde atuo em p
 Acredito no poder da tecnologia para transformar vidas e negócios. Estou sempre aberto a novos desafios, networking e oportunidades que me permitam crescer profissionalmente enquanto contribuo para projetos significativos.
 
 Onde você pode me encontrar
-<ul>
-<li>
-💼 <a href="https://www.linkedin.com/in/bruno-da-silva-ferreira">Me conecte no LinkedIn</a>
-</li>
-<li>
-🐱 <a href="https://github.com/Brunosfsk">Veja meus projetos no GitHub</a>
-</li>
-<li>
-📧 <a href="mailto:brunosfsk8@gmail.com">Envie-me um email</a>
-</li>
-<li>
-💬 <a href="https://wa.me/seunumerodetelefone">Converse comigo no WhatsApp</a>
-</li>
-</ul>
+<div style="display: flex; gap: 80px; margin: 20px 0; align-items: center">
+  <a href="https://www.linkedin.com/in/bruno-da-silva-ferreira" target="_blank" style="text-decoration: none;" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32">
+  </a>
+</div>
+<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brunosfsk&show_icons=true&theme=transparent)
 
