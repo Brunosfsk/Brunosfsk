@@ -1,6 +1,6 @@
 Olá, eu sou o Bruno 👨🏻‍💻 - @Brunosfsk
 
-Apaixonado por tecnologia! Trabalhei por mais de 10 anos com marketing digital, o que me aproximou muito da área de programação. Em 2021 dei início à minha transição de carreira focando no desenvolvimento.
+Apaixonado por tecnologia! Trabalhei por mais de 10 anos com marketing digital, o que me aproximou muito da área de programação. Em 2020 dei início à minha transição de carreira focando no desenvolvimento.
 
 Tenho experiência tanto no frontend quanto no backend, atuando em diversos projetos desde LPs e sites institucionais até sistemas complexos como CRMs.
 
